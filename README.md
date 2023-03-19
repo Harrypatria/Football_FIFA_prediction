@@ -1,5 +1,7 @@
 **FIFA WORLD CUP 2022**
 
+![Alt Text](https://www.worldcupsc.com/wp-content/uploads/2022/11/Screenshot-2022-11-14-at-14.34.45.png)
+
 The Role of Predictive Analytics relied on Machine and Deep Learning
 
 **_Situation_**
